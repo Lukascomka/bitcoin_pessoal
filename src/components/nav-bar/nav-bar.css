@@ -1,0 +1,91 @@
+/*nav bar css*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poller+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Khmer&family=Poller+One&display=swap');
+
+
+.navBar {
+  display: flex;
+  position: fixed;
+  
+  flex-direction: row;
+  width: 90%;
+  height: 100px;
+  border-color: white;
+  margin-top: 20px;
+  background-color: black;
+  border-radius: 50px;
+  justify-content: space-around;
+  align-items: center;
+  border-color: white;
+  z-index: 999;
+
+}
+
+.conteudoLogo {
+  width: 6%;
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  justify-content: center;
+  margin-left: 50px;
+}
+
+.conteudoLogo img {
+  align-self: center;
+  width: 65%;
+  height: 100%;
+  margin-top: 35px;
+}
+
+.conteudoLogo div {
+  color: white;
+  font-family: 'Poller One';
+  margin-bottom: 10px;
+  font-size: 25px;
+  margin-top: -12px;
+}
+
+.poller-one-regular {
+  font-family: "Poller One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.khmer-regular {
+  font-family: "Khmer", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.links_nav {
+  display: flex;
+  flex-direction: row;
+  width: 85%;
+  height: 100%;
+  justify-content: space-evenly;
+  align-items: center;
+  font-size: 25px;
+  font-weight: 400;
+  font-family: "Khmer", sans-serif;
+}
+
+.links_nav a {
+  text-decoration: none;
+  color: white;
+}
+
+.btnCadastrar {
+  display: flex;
+  flex-direction: column;
+  background-color: #5D19CA;
+  width: 140px;
+  height: 60px;
+  border-radius: 78px;
+  align-items: center;
+  justify-content: center;
+}
+

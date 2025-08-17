@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&family=Khmer&family=Poller+One&display=swap');
+.conteudo_part2 {
+    width: 90%;
+    margin-top: 500px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    
+}
+
+
+.conteudo_part2_text {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.titulo-container {
+    display: flex;
+    flex-direction: column;
+    line-height: 1;
+}
+
+.titulo-principal {
+   color: white;
+    font-family: "Funnel Display", sans-serif;
+    font-size: 90px;
+    font-weight: 30;
+    margin: 0;
+}
+
+.titulo-destaque {
+    color: #5D19CA;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+    font-family: "Funnel Display", sans-serif;
+    font-size: 92px;
+    font-weight: 30;
+    margin: 0;
+}
+
+.subtitulo {
+    color: white;
+    font-family: "Funnel Display", sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    margin-top: 20px;
+    width: 100%;
+}
+
+
+.container_pagina {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    align-items: center;
+}
+
+.btnSaibaMaisSession2 {
+    margin-top: 100px;
+    padding: 12px 30px;
+    border: none;
+    border-radius: 30px;
+    background-color: #5D19CA;
+    color: white;
+    font-size: 2.0rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s ease;
+    width: 180px;
+    height: 35px;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.btnSaibaMaisSession2:hover {
+  background-color: #4a13a3; 
+}

@@ -1,0 +1,55 @@
+.conteudoCarrossel {
+  position: relative;      
+  width: 90%;
+  height: 90vh;           
+  overflow: hidden;
+}
+
+.video_carrossel {
+  position: absolute;
+  margin-top: 20px;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;       
+  z-index: -1;
+}             
+.div_h2Carrossel {
+  position: absolute;
+  top: 50%;                
+  left: 50%;               
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+  font-size: 3.10rem;
+  font-weight: 500;
+  line-height: 1.9;
+  width: 90%;
+  padding: 0 20px;
+  text-shadow:white ;
+}
+.div_h2Carrossel span{
+  color: #5D19CA;
+  text-shadow: 2px 2px 4px rgba(0,0,0,1);
+}
+
+.btnSaibaMais {
+  margin-top: 100px;
+  padding: 12px 30px;
+  border: none;
+  border-radius: 30px;
+  background-color: #5D19CA; 
+  color: white;
+  font-size: 2.0rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s ease;
+  width: 250px;
+  height: 60px;
+  text-decoration: none;
+}
+
+.btnSaibaMais:hover {
+  background-color: #4a13a3; 
+}
