@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&family=Khmer&family=Poller+One&display=swap');
 .conteudo_part2 {
     width: 90%;
-    margin-top: 500px;
+    margin-top: 340px;
     display: flex;
     justify-content: flex-start;
     flex-direction: row;
-    
 }
 
 
@@ -44,14 +43,14 @@
     font-weight: 300;
     font-size: 30px;
     margin-top: 20px;
-    width: 100%;
+    width: 98%;
 }
 
 
 .container_pagina {
     display: flex;
     flex-direction: column;
-    margin: 10px;
+    margin: 0px;
     align-items: center;
 }
 

@@ -1,0 +1,68 @@
+.footer_main {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    margin-top: 200px;
+
+}
+
+.conteudo_footerMain {
+    width: 90%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    align-items: flex-start;
+    margin: 80px;
+   
+}
+
+.fraseA {
+    font-size: 107px;
+    width: 70%;
+    text-decoration: underline;
+    
+
+}
+
+.fraseB {
+    color: #5D19CA;
+    font-size: 107px;
+    width: 100%;
+    margin-top: -50px;
+
+
+}
+.fraseC{
+    font-weight: 100;
+    font-size: 57px;
+    margin-top: -50px;
+    width: 90%;
+}
+
+.btnSaibaMaisSession3 {
+    
+    padding: 12px 30px;
+    border: none;
+    border-radius: 30px;
+    background-color: #5D19CA;
+    color: white;
+    font-size: 2.0rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s ease;
+    width: 180px;
+    height: 35px;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-self: center;
+}
+
+.btnSaibaMaisSession3:hover {
+  background-color: #4a13a3; 
+}
+
