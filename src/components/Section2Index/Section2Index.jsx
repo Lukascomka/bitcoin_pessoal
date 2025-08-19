@@ -1,7 +1,7 @@
 
 import video_processador from "/home/lukascomka/Área de trabalho/CCOA-2Semestre/Projeto Integrado segundo semestre/Prototipo_site/bitcoin_pessoal/src/video/video_processador.mp4";
 
-import './Index_part2.css'; 
+import '../Section2Index/Section2Index.css'; 
 
 function Index_part2(){
     return (

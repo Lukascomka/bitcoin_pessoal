@@ -1,6 +1,6 @@
 import video_bitcoin from "/home/lukascomka/Área de trabalho/CCOA-2Semestre/Projeto Integrado segundo semestre/Prototipo_site/bitcoin_pessoal/src/video/video_bitcoin.mp4";
 
-import "/home/lukascomka/Área de trabalho/CCOA-2Semestre/Projeto Integrado segundo semestre/Prototipo_site/bitcoin_pessoal/src/components/carrossel_home/carrossel_home.css";
+import "../CarrosselHome/CarrosselHome.css";
 
 function CarrosselMain(){
     return(

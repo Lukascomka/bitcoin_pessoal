@@ -1,6 +1,6 @@
-import './Footer_Main.css';
+import '../Section3Index/Section3Index.css';
 
-function Footer_Main() {
+function Section3Index() {
     return (
         <div className="footer_main">
             <div className="conteudo_footerMain">
@@ -13,4 +13,4 @@ function Footer_Main() {
         </div>
         );
 }
-export default Footer_Main;
+export default Section3Index;

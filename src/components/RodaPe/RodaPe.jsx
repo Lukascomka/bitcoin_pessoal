@@ -4,10 +4,10 @@ import github from '/home/lukascomka/Área de trabalho/CCOA-2Semestre/Projeto In
 
 import logo_footer from "/home/lukascomka/Área de trabalho/CCOA-2Semestre/Projeto Integrado segundo semestre/Prototipo_site/bitcoin_pessoal/src/img/logo_semFundo.png";
 
-import "../roda_pe/Roda_pe.css"
+import "../RodaPe/RodaPe.css"
 
 
-function Roda_pe(){
+function RodaPe(){
     return(
 
          <div className="roda_pe">
@@ -21,4 +21,4 @@ function Roda_pe(){
       </div>
     );
 }
-export default Roda_pe;
+export default RodaPe;
