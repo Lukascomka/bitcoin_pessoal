@@ -1,7 +1,42 @@
- # Projeto acdêmico feito em React
- 
- Afim de me desafiar no processo acadêmico, decidi pegar o projeto realizado em grupo na faculdade SPTech, no curso de Ciência da Computação e criar em paralelo o mesmo projeto mas utilizando o framework React. 
- O projeto é puramente acadêmico e tem como objetivo ampliar conceitos aprendidos em sala de aula e a auto disciplina de conhecer novas tecnologias longe das que já sou inserido na faculdade.
- Buscando o aperfeiçoamanto pessoal e aprimorar novas habilidades no desenvolvimento de software. 
+# 📚 Projeto Acadêmico: Reconstrução em React  
 
-# Prototipação (Figma) 6 páginas ao todo
+**Objetivo**: Recriar individualmente um projeto desenvolvido em grupo durante o curso de *Ciência da Computação* ([SPTech](https://www.sptech.school/)), utilizando **React** para consolidar conhecimentos e explorar novas tecnologias.  
+
+---
+
+## 🎯 Propósito  
+- Ampliar conceitos aprendidos em sala de aula.   
+- Consolidar conhecimentos em React, APIs, e integração com bancos de dados.  
+
+---
+
+## 🛠️ Tecnologias  
+| Frontend          | Backend       | Banco de Dados | Prototipação  |  
+|-------------------|---------------|----------------|---------------|  
+| React.js          | Node.js       | MySQL          | Figma         |  
+
+---
+
+## ✨ Funcionalidades  
+✅ **CRUD completo** (Create, Read, Update, Delete)  
+✅ Rotas dinâmicas com React Router  
+✅ Consumo de API RESTful  
+✅ Integração frontend + backend + MySQL  
+
+---
+
+## 🎨 Protótipo (Figma)  
+**6 telas** foram projetadas, mas o foco será nas principais:  
+- Páginas com conteúdo textual e multimídia (vídeos).  
+- Design centrado na usabilidade.  
+
+*(Link do Figma: [em breve]())*  
+
+---
+
+## 📌 Notas Acadêmicas  
+- Projeto **100% didático**, sem fins comerciais.  
+- Backend será desenvolvido em **Node.js** para simular um ambiente real.  
+
+---
+
